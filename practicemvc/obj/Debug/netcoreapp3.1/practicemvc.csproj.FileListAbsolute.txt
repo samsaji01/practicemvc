@@ -35,3 +35,5 @@ C:\Users\91701\source\repos\practicemvc\practicemvc\obj\Debug\netcoreapp3.1\prac
 C:\Users\91701\source\repos\practicemvc\practicemvc\obj\Debug\netcoreapp3.1\practicemvc.pdb
 C:\Users\91701\source\repos\practicemvc\practicemvc\obj\Debug\netcoreapp3.1\practicemvc.genruntimeconfig.cache
 C:\Users\91701\source\repos\practicemvc\practicemvc\obj\Debug\netcoreapp3.1\practicemvc.csproj.CopyComplete
+C:\Users\91701\source\repos\practicemvc\practicemvc\obj\Debug\netcoreapp3.1\Razor\Views\Store\Index.cshtml.g.cs
+C:\Users\91701\source\repos\practicemvc\practicemvc\obj\Debug\netcoreapp3.1\Razor\Views\Store\Browse.cshtml.g.cs
